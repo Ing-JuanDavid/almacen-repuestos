@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class Cliente extends Model
 
 {
-    protected $primaryKey = 'clienet_id';
+    protected $primaryKey = 'cliente_id';
 
     public $incrementing = false; 
     
